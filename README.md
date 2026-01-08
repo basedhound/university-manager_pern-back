@@ -164,7 +164,7 @@ Replace the placeholder values with your real credentials. You can get these by 
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:300) in your browser to view the project.
+Open [http://localhost:8000](http://localhost:8000) in your browser to view the project.
 
 ## <a name="links">🔗 Assets</a>
 
